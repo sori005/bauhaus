@@ -1,0 +1,250 @@
+*{ 
+    margin: 0;
+    padding: 0; }
+
+.box01{
+    width: 1920px;
+    height: 2080px;
+    margin: 0 auto;}
+.inbox01{
+    width: 1920px;
+    height: 2080px;
+    margin: 0 auto;
+    background-image: url(img/bg1.png);
+    position: relative;}
+.txt01{
+    font-family: 'Spoqa Han Sans Neo', sans-serif;
+    font-weight: bold;
+    width: 1254px;
+    position: absolute;
+    top: 1858px;
+    left: 162px;
+    font-size: 90px;
+    color: white;}
+.box02{
+    width: 1920px;
+    height: 3300px;
+    margin: 0 auto;}   
+.inbox02{
+    width: 1920px;
+    height: 3300px;
+    margin: 0 auto;
+    background-image: url(img/bg02.png);
+    position: relative;
+    background-color: #4A4A4A;}
+.txt02{
+    font-family: 'Spoqa Han Sans Neo', sans-serif;
+    font-weight: bold;
+    width: 1209px;
+    position: absolute;
+    top: 136px;
+    left: 186px;
+    font-size: 75px;
+    color: white;}
+.txt03{
+    font-family: 'Spoqa Han Sans Neo', sans-serif;
+    width: 1596px;
+    position: absolute;
+    top: 380px;
+    left: 162px;
+    font-size: 35px;
+    color: white;}
+.txt04{
+    font-family: 'Spoqa Han Sans Neo', sans-serif;
+    font-weight: bold;
+    width: 1209px;
+    position: absolute;
+    top: 840px;
+    left: 186px;
+    font-size: 72px;
+    color: white;}
+.txt05{
+    font-family: 'Spoqa Han Sans Neo', sans-serif;
+    width: 1580px;
+    position: absolute;
+    top: 2000px;
+    left: 170px;
+    font-size: 35px;
+    color: white;}
+.box03{
+    width: 1920px;
+    height: 3357px;
+    margin: 0 auto;}
+.inbox03{
+    width: 1920px;
+    height: 3357px;
+    margin: 0 auto;
+    background-image: url(img/bg3.png);
+    position: relative;
+    background-color: #4A4A4A;}
+.txt06{
+    font-family: 'Spoqa Han Sans Neo', sans-serif;
+    font-weight: bold;
+    width: 850px;
+    position: absolute;
+    top: 109px;
+    left: 202px;
+    font-size: 75px;
+    color: white;}
+.txt07{
+    font-family: 'Spoqa Han Sans Neo', sans-serif;
+    width: 230px;
+    position: absolute;
+    position: relative;
+    top: 656px;
+    left: 220px;
+    font-size: 35px;
+    color: white;
+    text-align: center;}
+.txt08{
+    font-family: 'Spoqa Han Sans Neo', sans-serif;
+    width: 200px;
+    position: absolute;
+    top: 683px;
+    left: 623px;
+    font-size: 35px;
+    color: white;
+    text-align: center;}
+.txt09{
+    font-family: 'Spoqa Han Sans Neo', sans-serif;
+    width: 300px;
+    position: absolute;
+    top: 675px;
+    left: 1013px;
+    font-size: 35px;
+    color: white;
+    text-align: center;}
+.txt10{
+    font-family: 'Spoqa Han Sans Neo', sans-serif;
+    width: 200px;
+    position: absolute;
+    top: 666px;
+    left: 1477px;
+    font-size: 35px;
+    color: white;
+    text-align: center;}
+.txt11{
+    font-family: 'Spoqa Han Sans Neo', sans-serif;
+    width: 600px;
+     position: absolute;
+     margin-top: 50px;
+     top: 780px;
+     left: 45px;
+     font-size: 20px;
+     color: white;
+     text-align: center;}
+.txt12 {
+    font-family: 'Spoqa Han Sans Neo', sans-serif;
+     width: 376px;
+     position: absolute;
+     top: 830px; 
+     left: 559px;
+     font-size: 20px;
+     color: white;
+     text-align: center;}
+.txt13{
+    font-family: 'Spoqa Han Sans Neo', sans-serif;
+    width: 350px;
+    position: absolute;
+    margin-top: 50px;
+    top: 780px; 
+    left: 1011px;
+    font-size: 15px;
+    color: white;
+    text-align: center;}
+.txt14{
+    font-family: 'Spoqa Han Sans Neo', sans-serif;
+    width: 300px;
+    position: absolute;
+    margin-top: 50px;
+    top: 766px; 
+    left: 1437px;
+    font-size: 20px;
+    color: white;
+    text-align: center;}
+.txt15{
+    font-family: 'Spoqa Han Sans Neo', sans-serif;
+    width: 1634px;
+    position: absolute;
+    top: 2241px;
+    left: 157px;
+    font-size: 28px;
+    color: white;}
+
+.box04{
+    width: 1920px;
+    height: 1900px;
+    margin: 0 auto;}
+    
+.inbox04 {
+    width: 1920px;
+     height: 1900px;
+     margin: 0 auto;
+     position: relative;
+     background-position: center 1000px;
+     background-image: url(img/bg4.png);
+     background-repeat: no-repeat;
+     background-color: #4A4A4A;}
+    
+ .txt16{
+    font-family: 'Spoqa Han Sans Neo', sans-serif;
+    font-weight: bold;
+    width: 1612px;
+    position: absolute;
+    top: 143px;
+    left: 154px; 
+    font-size: 75px;
+    color: white;}
+.txt17{
+    font-family: 'Spoqa Han Sans Neo', sans-serif;
+    width: 1634px;
+    position: absolute;
+    top: 446px;
+    left: 157px;
+    font-size: 27px;
+    color: white;}
+
+.txt18{
+    font-family: 'Spoqa Han Sans Neo', sans-serif;
+    width: 300px;
+    position: absolute;
+    top: 1379px;
+    left: 224px;
+    font-size: 20px;
+    color: white;}
+
+.txt19{
+    font-family: 'Spoqa Han Sans Neo', sans-serif;
+    width: 300px;
+    position: absolute;
+    top: 1379px;
+    left: 892px;
+    font-size: 20px;
+    color: white;}
+.txt20{
+    font-family: 'Spoqa Han Sans Neo', sans-serif;
+    width: 221px;
+    position: absolute;
+    top: 1370px;
+    left: 1481px;
+    font-size: 20px;
+    color: white;}
+
+.txt21{
+    font-family: 'Spoqa Han Sans Neo', sans-serif;
+    width: 217px;
+    position: absolute;
+    top: 1576px;
+    left: 158px;
+    font-size: 20px;
+    color: white;}
+
+    .txt22{
+        font-family: 'Spoqa Han Sans Neo', sans-serif;
+        width: 1634px;
+        position: absolute;
+        top: 1676px;
+        left: 158px;
+        font-size: 20px;
+        color: white;}
+
